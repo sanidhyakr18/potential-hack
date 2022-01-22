@@ -1,4 +1,4 @@
-package com.sandystudios.posedetection.adapter;
+package com.sandystudios.mirrorball.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,8 +9,7 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
 
-import com.sandystudios.posedetection.R;
-
+import com.sandystudios.mirrorball.R;
 
 public class CustomPagerAdapter extends PagerAdapter {
     private Context mContext;
