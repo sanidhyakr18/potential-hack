@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/potential-hack/PoseDetection/app/src/main/res/drawable/nonselecteditem_dot.xml" value="0.22763157894736843" />
+        <entry key="..\:/GitHub/potential-hack/PoseDetection/app/src/main/res/drawable/selecteditem_dot.xml" value="0.22763157894736843" />
+        <entry key="..\:/GitHub/potential-hack/PoseDetection/app/src/main/res/layout/activity_main.xml" value="0.21403508771929824" />
+        <entry key="..\:/GitHub/potential-hack/PoseDetection/app/src/main/res/layout/banner_image_view.xml" value="0.21403508771929824" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
