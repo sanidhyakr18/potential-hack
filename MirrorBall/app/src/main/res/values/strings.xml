@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Mirror Ball</string>
     <string name="mirror_ball">Mirror Ball</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="start_new_session">Start New\nSession</string>
 </resources>
