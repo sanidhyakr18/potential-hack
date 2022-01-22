@@ -29,6 +29,11 @@ The apk file can be found [Here](https://github.com/sanidhyakr18/potential-hack/
 * [APK](https://github.com/sanidhyakr18/potential-hack/tree/main/apk) folder contains the APK file
 * [Human-Pose-Compare-master](https://github.com/sanidhyakr18/potential-hack/tree/main/E-hack/Human-Pose-Compare-master) folder contains the WebApp to illustrate how the correctness score is calculated.
 
+## How to use the web App
+
+1.Downlaod the zip folder into a directory
+2.Use pip install -r requirements.txt to download the dependencies.
+3.Inside the directory run "streamlit run main.py" to run the pyhton code and you're good to go.
 
 ### How to use the App
 1. It uses the mobile camera preview as input and contains the pose detection API workflow
