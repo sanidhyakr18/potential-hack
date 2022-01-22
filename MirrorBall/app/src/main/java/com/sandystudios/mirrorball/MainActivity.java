@@ -4,9 +4,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 import androidx.viewpager.widget.ViewPager;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import com.sandystudios.mirrorball.adapter.CustomPagerAdapter;
 
@@ -24,6 +27,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        Button btn = findViewById(R.id.entry_point);
+        btn.setOnClickListener(v -> {
+            Intent intent = new Intent(this, LivePreviewActivity.class);
+            startActivity(intent);
+        });
 
         mViewPager = findViewById(R.id.viewpager);
         pager_indicator = (LinearLayout) findViewById(R.id.viewPagerCountDots);
