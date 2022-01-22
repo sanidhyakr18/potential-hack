@@ -36,7 +36,7 @@ The apk file can be found [Here](https://github.com/sanidhyakr18/potential-hack/
 2. Use pip install -r requirements.txt to download the dependencies.
 3. Inside the directory run "streamlit run main.py" to run the pyhton code and you're good to go.
 
-### How to use the App
+## How to use the App
 1. It uses the mobile camera preview as input and contains the pose detection API workflow
 2. The user selects an activity that he wants to practice
 3. The app compares it with the predifined activity and outputs result in the form of a stick figure
