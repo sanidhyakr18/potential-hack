@@ -11,11 +11,12 @@ We have the solution!!
 ## Introduction
 
 The app is developed using the [ML Kit Quickstart app](https://github.com/googlesamples/mlkit.git).
-The WebApp s developed using OpenCV, TensorFlow ,OpenPose and Mediapipe.
+
+The WebApp is developed using OpenCV, TensorFlow, OpenPose and Mediapipe.
 
 We have documented the points of a person who is performing a certain activity as our model. Using the points we can check how similar a test video is to that particular activity. 
 
-e.g. How close are you to performing Kohli's cover drive to perfection
+e.g. How close are you to performing Virat Kohli's cover drive to perfection
 
 
 ## Releases
