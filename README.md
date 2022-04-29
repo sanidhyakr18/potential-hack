@@ -49,7 +49,7 @@ The apk file can be found [Here](https://github.com/sanidhyakr18/potential-hack/
 * Give feedback to user if practicing in correctly just like a personal coach/trainer
 * Coordinate Smoothing
 * Pose Comparison
-* Dynamic drawing fucntion
+* Dynamic drawing function
 
 ## Support
 
